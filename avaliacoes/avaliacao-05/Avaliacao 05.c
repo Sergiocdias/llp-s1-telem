@@ -1,4 +1,5 @@
-
+// Aluno: Sérgio Cavalcante Dias
+// Avaliação 05
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
