@@ -34,7 +34,7 @@ int main(void)
      	
     fclose(arq);
 
-    printf("Dados salvos no arquivo: avaliacao 6 Sergio!");
+    printf("As informações foram salvas no arquivo: avaliacao 6 Sergio!");
 
     getch();
     return(0);
