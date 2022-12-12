@@ -29,7 +29,7 @@ int main(void)
 
     printf("Dados gravados no arquivo: avaliacao 5 Sergio!");
 
-    getch();
+
     return(0);
 
 }
