@@ -36,6 +36,5 @@ int main(void)
 
     printf("As informações foram salvas no arquivo: avaliacao 6 Sergio!");
 
-    getch();
     return(0);
 }
